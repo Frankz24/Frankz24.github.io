@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://frankz24.github.io/sitemap.xml
+Sitemap: https://Frankz24.github.io/sitemap.xml

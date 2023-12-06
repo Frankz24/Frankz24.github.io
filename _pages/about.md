@@ -2,25 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: B.S. Mathematics. B.A.H. Economics. M.S. Computer Science. <a href='https://profiles.stanford.edu/linan-zhao'>Stanford 24'</a>. <br>frankz24 [at] stanford [dot] edu
+# <a href='#'>Affiliations</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Stanford, California, 94305</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am a senior undergraduate majoring in mathematics and economics at Stanford. I am also pursuing a coterminal degree in computer science. I am grateful to be advised by Prof. Daniel Bump, Prof. Han Hong, and Prof. Jiajun Wu. I spent my last two summers working as a research intern at Stanford's CURIS program, under the guidance of Prof. Stefano Ermon and Prof. Jiajun Wu. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests broadly lie in <b>generative models in computer vision</b>, <b>offline reinforcement learning</b>, and <b>machine learning approaches that tackle real-world problems</b>.

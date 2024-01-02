@@ -1,12 +1,12 @@
 ---
-# layout: page
-# permalink: /teaching/
-# title: teaching
-# description: Materials for courses you taught. Replace this text with your description.
-# nav: true
-# nav_order: 5
+layout: page
+permalink: /teaching/
+title: Teaching
+description: Curriculum and courses I have taught / TAed.
+nav: true
+nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I have previous tutored <b>number theory</b>, <b>abstract algebra</b>, and <b>proof-writing</b> at the introductory level. I have also volunteered my time to teach <b>English</b> to primary school students in poor areas of Guangxi China and an orphanage in Thailand, helping them to overcome the barriers to higher education. 
 
-Organize your courses by years, topics, or universities, however you like!
+I am actively tutoring high-school students the <b>International Baccalaureate high-level Mathematics</b> curriculum.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm starting my undergraduate career at Stanford University!
+I'm starting my undergraduate career at Stanford University, pursuing a double major in Mathematics and Economics!

@@ -4,9 +4,13 @@
 @unpublished{layout,
   author = {Zhao, Linan and Yuan, Zeqing and Zhang, Yunzhi and Wu, Shangzhe and Wu, Jiajun},
   title  = "{Learning Generative 3D Scene Layouts from a Single Image}",
+  abstract = {What is a scene, conceptually? It can be decomposed into multiple objects, their spatial arrangement, and the background. While recent works have pushed the boundary on modeling 3D objects, the scene layout indicating how objects are arranged in 3D space remains under-explored. In this work, we build a generative model that learns the 3D scene layout distribution from a single 2D image, such as a photo of a parking lot containing several cars. We first retrieve the object geometry from segmented instances. Next, we build a permutation-equivariant model to generate layout parameters, which, combined with geometry, render scene images. We then leverage a patch-based discriminator on 2D images along with auxiliary losses to guide layout learning. Experiments demonstrate that our model successfully learns a wide range of layout distributions, each from a single Internet image. Our method achieves superior results on multiple downstream tasks, including extrapolating on number of instances and transferring learned layout to other objects.},
   year   = "2023",
-  url    = {https://sinlayout.github.io},
-  selected={true},
+  html    = {https://sinlayout.github.io},
+  selected = {true},
+  bibtex_show={true},
+  pdf = {sinLayout-draft.pdf},
+  preview = {sinLayout_preview.png},
 }
 
 
@@ -14,13 +18,29 @@
   author = {Zhao, Linan and Li, Haozhuo and Rafailov, Rafael and Finn, Chelsea},
   title  = "{COMBOU: Leveraging Unlabeled Data in Conservative Offline Model-Based RL}",
   year   = "2023",
-  url   = {https://drive.google.com/drive/folders/1zZ6v41jKnmMbcJofRVzeJH_xQz8aTw6m?usp=share_link},
-  selected={true},
+  html   = {https://drive.google.com/drive/folders/1zZ6v41jKnmMbcJofRVzeJH_xQz8aTw6m?usp=share_link},
+  selected = {true},
+  bibtex_show = {true},
+  pdf = {UCOMBO-draft.pdf},
+  poster = {CS224R_Poster.pdf},
 }
+
+
+@unpublished{smoke-cnn,
+  author = {Zhao, Linan and Meng, Chenlin and Ermon, Stefano and Burke, Marshall and Lobell, David},
+  title  = "{Using CNN and Spatial-Temporal Embedding for Predicting Smoke PM2.5}",
+  year   = "2022",
+  selected = {true},
+  bibtex_show = {true},
+  poster = {wildfire_smoke_poster.pdf},
+  preview = {smokeCNN_preview.png},
+}
+
 
 @INPROCEEDINGS{LTU,
        author = {Zhao, Linan},
         title = "{Data-Driven Approach for Predicting and Explaining the Risk of Long-Term Unemployment}",
+     abstract = {Long-term unemployment has significant societal impact and is of particular concerns for policymakers with regard to economic growth and public finances. This paper constructs advanced ensemble machine learning models to predict citizens’ risks of becoming long-term unemployed using data collected from European public authorities for employment service. The proposed model achieves 81.2\% accuracy on identifying citizens with high risks of long-term unemployment. This paper also examines how to dissect black-box machine learning models by offering explanations at both a local and global level using SHAP, a state-of-the-art model-agnostic approach to explain factors that contribute to long-term unemployment. Lastly, this paper addresses an under-explored question when applying machine learning in the public domain, that is, the inherent bias in model predictions. The results show that popular models such as gradient boosted trees may produce unfair predictions against senior age groups and immigrants. Overall, this paper sheds light on the recent increasing shift for governments to adopt machine learning models to profile and prioritize employment resources to reduce the detrimental effects of long-term unemployment and improve public welfare.},
     booktitle = {E3S Web of Conferences},
          year = 2020,
        volume = {214},
@@ -30,5 +50,9 @@
           doi = {10.1051/e3sconf/202021401023},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020E3SWC.21401023Z},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-      selected={true},
+         html = {https://www.e3s-conferences.org/articles/e3sconf/abs/2020/74/e3sconf_ebldm2020_01023/e3sconf_ebldm2020_01023.html},
+      selected = {true},
+      bibtex_show = {true},
+      pdf = {Yau Award Research Paper Linan(Frank) Zhao.pdf},
+      preview = {LTU_preview.png},
 }

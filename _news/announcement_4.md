@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm officially starting my coterminal studies (master's) in computer science at Stanford!
+I'm officially starting my coterminal studies (master's) in Computer Science at Stanford!

@@ -274,7 +274,7 @@ scholar:
   last_name: [Zhao]
   first_name: [Linan (Frank)]
 
-  style: apa
+  style: ieeetran
   locale: en
 
   source: /_bibliography/

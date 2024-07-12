@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: M.S. Computer Science. <a href='https://profiles.stanford.edu/linan-zhao'>Stanford</a>. Expected Graduation -- June 2025. <br>B.A.S. Mathematics. B.A.S. Economics with Honors. <a href='https://profiles.stanford.edu/linan-zhao'>Stanford</a>. <br>frankz24 [at] stanford [dot] edu
+subtitle: M.S. Computer Science. <a href='https://profiles.stanford.edu/linan-zhao'>Stanford University</a>. Expected Graduation -- June 2025. <br>B.A.S. Mathematics. B.A.S. Economics with Honors. <a href='https://profiles.stanford.edu/linan-zhao'>Stanford University</a>. <br>frankz24 [at] stanford [dot] edu
 # <a href='#'>Affiliations</a>.
 
 profile:
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a senior undergraduate majoring in <b>mathematics</b> and <b>economics</b> at Stanford. I am also pursuing a coterminal degree in <b>computer science</b>. I am grateful to be advised by <b>Prof. Daniel Bump</b>, <b>Prof. Han Hong</b>, and <b>Prof. Jiajun Wu</b>. I spent my last two summers working as a research intern at Stanford's CURIS Summer CS Research Program, under the guidance of <b>Prof. Stefano Ermon</b> and <b>Prof. Jiajun Wu</b>. 
+Hi! I am now a master's student in <b>computer science</b> at Stanford University. I graduated with a double major in <b>mathematics</b> and <b>economics</b> at Stanford in June 2024. I am grateful to be advised by <b>Prof. Daniel Bump</b>, <b>Prof. Han Hong</b>, and <b>Prof. Jiajun Wu</b>. I spent my last two summers working as a research intern at Stanford's CURIS Summer CS Research Program, under the guidance of <b>Prof. Stefano Ermon</b> and <b>Prof. Jiajun Wu</b>. 
 
 My research interests broadly lie in:
 <ul>

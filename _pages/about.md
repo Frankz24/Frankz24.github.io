@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: B.S. Mathematics. B.A.H. Economics. M.S. Computer Science. <a href='https://profiles.stanford.edu/linan-zhao'>Stanford 24'</a>. <br>frankz24 [at] stanford [dot] edu
+subtitle: M.S. Computer Science. <a href='https://profiles.stanford.edu/linan-zhao'>Stanford</a>. <br>B.A.S. Mathematics. B.A.H. Economics with Honors. University Distinction. <a href='https://profiles.stanford.edu/linan-zhao'>Stanford</a>. <br>frankz24 [at] stanford [dot] edu
 # <a href='#'>Affiliations</a>.
 
 profile:

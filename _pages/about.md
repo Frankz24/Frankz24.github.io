@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: M.S. Computer Science. <a href='https://profiles.stanford.edu/linan-zhao'>Stanford</a>. Expected Graduation - June 2025. <br>B.A.S. Mathematics. B.A.S. Economics with Honors. Distinction. <a href='https://profiles.stanford.edu/linan-zhao'>Stanford</a>. <br>frankz24 [at] stanford [dot] edu
+subtitle: M.S. Computer Science. <a href='https://profiles.stanford.edu/linan-zhao'>Stanford</a>. Expected Graduation -- June 2025. <br>B.A.S. Mathematics. B.A.S. Economics with Honors. <a href='https://profiles.stanford.edu/linan-zhao'>Stanford</a>. <br>frankz24 [at] stanford [dot] edu
 # <a href='#'>Affiliations</a>.
 
 profile:

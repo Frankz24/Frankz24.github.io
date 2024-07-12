@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: M.S. Computer Science. <a href='https://profiles.stanford.edu/linan-zhao'>Stanford</a>. <br>B.A.S. Mathematics. B.A.H. Economics with Honors. University Distinction. <a href='https://profiles.stanford.edu/linan-zhao'>Stanford</a>. <br>frankz24 [at] stanford [dot] edu
+subtitle: M.S. Computer Science. <a href='https://profiles.stanford.edu/linan-zhao'>Stanford</a>. Expected Graduation - June 2025. <br>B.A.S. Mathematics. B.A.S. Economics with Honors. Distinction. <a href='https://profiles.stanford.edu/linan-zhao'>Stanford</a>. <br>frankz24 [at] stanford [dot] edu
 # <a href='#'>Affiliations</a>.
 
 profile:
@@ -23,6 +23,7 @@ Hi! I am a senior undergraduate majoring in <b>mathematics</b> and <b>economics<
 My research interests broadly lie in:
 <ul>
   <li><b>Generative models in computer vision</b></li>
-  <li><b>Offline reinforcement learning</b></li>
+  <li><b>3D vision</b></li>
+  <li><b>Causal inference</b></li>
   <li><b>Machine learning approaches that tackle real-world problems</b></li>
 </ul>
